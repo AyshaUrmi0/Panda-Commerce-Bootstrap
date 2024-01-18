@@ -1,3 +1,7 @@
+
+h2 {
+    color: lightblue !important;
+  }
 .panda-bg-info{
     background-color: #fceae8;
 }
@@ -12,3 +16,10 @@
     padding: 9px 25px;
 }
 
+#backpack{
+    background-color: tomato;
+}
+
+.card border border-0 shadow-lg h-100{
+    border-radius: 30px;
+}
